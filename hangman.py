@@ -63,6 +63,8 @@ while True:
             if current_try == tries:
                 print("You lost!")
                 break
+
             print()
+
     elif user_choice == 'exit':
         exit()
